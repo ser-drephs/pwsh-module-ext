@@ -1,5 +1,5 @@
 @{
-    ModuleToProcess      = 'pwsh-module-pack.psm1'
+    ModuleToProcess      = 'pwsh-module-ext.psm1'
     ModuleVersion        = '0.0.1'
     CompatiblePSEditions = @('Core')
     GUID                 = '02bc1650-e68a-45f5-98aa-64703ad31ece'
